@@ -1,0 +1,114 @@
+body{background: #fff; margin: 40px 0px 0px 0px;}
+#header{
+    top: 0px;
+    left:0px;
+    height: 88px;
+    width: 100%;
+    background-color: #009688;
+    color:#fff;
+}
+
+.header-text{
+    margin:  0px 0px 0px 15px;
+    font-size: 25px;
+}
+.header-login{
+    margin:  0px 0px 0px 15px;
+    font-size: 50px;
+	padding: 20px;
+}
+
+#container{
+    height: auto;
+    width: 220px;
+    margin: 50px auto;
+    border: 2px solid #d5d5ff;
+    padding: 10px;
+}
+#container2{
+    height: auto;
+    width: 900px;
+    margin: 35px auto;
+    border: 2px solid #d5d5ff;
+    padding: 10px;
+}
+#container3{
+    height: auto;
+    width: 350px;
+    margin: 50px auto;
+    border: 1px solid #d5d5ff;
+    padding: 10px;
+}
+#container4{
+    height: auto;
+    width: 900px;
+    margin: 50px auto;
+    border: 2px solid #d5d5ff;
+    padding: 10px;
+}
+#container5{
+    height: auto;
+    width: 900px;
+    height: 500px;
+    margin: 0 auto;
+    border: 2px solid #d5d5ff;
+    padding: 10px;
+}
+.form_head{
+    border-bottom: 1px solid #d5d5ff;
+    font-size: large;
+    font-family:arial sans-serif;
+    font-weight: bold;
+}
+
+#btn
+{
+  border: 1px solid #777777;
+  background: #3A5795;
+  color: white;
+  font: bold 11px 'Trebuchet MS';
+  padding: 10px 35px 10px 35px;
+  cursor: pointer;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+}
+#btn:hover
+{
+  border: 1px solid #777777;
+  background:#75D9FA;
+  color: white;
+  font: bold 11px 'Trebuchet MS';
+  padding: 10px 35px 10px 35px;
+  cursor: pointer;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+}
+#btnc
+{
+  border: 1px solid #777777;
+  background: #3A5795;
+  color: white;
+  font: bold 11px 'Trebuchet MS';
+  padding: 10px 35px 10px 35px;
+  cursor: pointer;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  float: right;
+}
+
+#btnc:hover
+{
+  border: 1px solid #777777;
+  background: #75D9FA;
+  color: white;
+  font: bold 11px 'Trebuchet MS';
+  padding: 10px 35px 10px 35px;
+  cursor: pointer;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+}
+
+#menu-modal{
+    padding:9px 15px 9px;
+    border-bottom:1px solid #ccc;
+}
